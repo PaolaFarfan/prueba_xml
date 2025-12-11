@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ies>
+  <nombre>IES PÚBLICO HUANTA</nombre>
+  <programas_estudio>
+    <pe1>
+      <per1>
+        <nombre/>
+      </per1>
+      <per2>
+        <nombre/>
+        <unidades_didacticas/>
+      </per2>
+      <mod1>
+        <nombre>ANALISIS Y DISEÑO DE SISTEMAS WEB</nombre>
+      </mod1>
+      <per1>
+        <nombre/>
+      </per1>
+      <per2>
+        <nombre/>
+        <unidades_didacticas/>
+      </per2>
+      <mod2>
+        <nombre>DESARROLLO DE APLIACIONES WEB</nombre>
+      </mod2>
+      <per1>
+        <nombre/>
+      </per1>
+      <per2>
+        <nombre/>
+        <unidades_didacticas/>
+      </per2>
+      <mod3>
+        <nombre>DISEÑO DE SERVICIOS WEB</nombre>
+      </mod3>
+      <nombre>DISEÑO Y PROGRAMACION WEB</nombre>
+    </pe1>
+    <pe2>
+      <nombre>ENFERMERIA TECNICA</nombre>
+    </pe2>
+    <pe3>
+      <nombre>INDUSTRIA DE ALIMENTOS Y BEBIDAS</nombre>
+    </pe3>
+    <pe4>
+      <nombre>MECANICA AUTOMOTRIZ</nombre>
+    </pe4>
+    <pe5>
+      <nombre>PRODUCCION AGROPECUARIA</nombre>
+    </pe5>
+  </programas_estudio>
+</ies>
